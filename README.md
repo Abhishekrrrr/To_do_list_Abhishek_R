@@ -10,7 +10,7 @@ PHP (PDO), MYSQL and JQuery AJAX PROJECT
 - add your database
 - install xampp
 - start sql and Apache 
-- - go(\xampp\htdocs)
+- go to (\xampp\htdocs)
 - create a new floder there(to)
 - download(https://github.com/Abhishekrrrr/to_do_list_abhishek_r)
 - paste into that floder(to)
